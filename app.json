@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-campanh",
-    "slug": "my-campanh",
+    "name": "first-react-native",
+    "slug": "first-react-native",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
